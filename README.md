@@ -15,7 +15,7 @@ After downloading the application, in this case I’m on a MacOS. You will be gr
 
 ## Ledger Live 
 Next Select the device where you will be storing your crypto
-![select device](imgs/step3_Select Device.png)
+![select device](imgs/step3_SelectDevice.png)
 
 Next you will be prompted with steps for first time users or connecting a previously setup device. In this case you will be setting up for the first time. 
 Click “Lets do this!” to move forward
