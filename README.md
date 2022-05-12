@@ -3,9 +3,9 @@ This is a guide for individuals to use to be able to safely transfer their crypt
 This guide is meant to serve as a walkthrough for individuals who want to safely transfer their crypto out of an exchange such as Coinbase into an offline hardware wallet. Below are the steps taken in spring of 2022 using a Ledger Nano Device. Enjoy! 
 
 
-First steps are to download the ledger live application. The link can be found at typing in the search engine “ledger live” or browsing to “https://www.ledger.com/”
+First steps are to download the ledger live application. The link can be found at typing in the search engine “ledger live” or browsing to https://www.ledger.com/
 
-As a precautionary measure, to ensure that you didn’t click on the wrong link. Visit virustotal.com and copy the link above to run it against 90 or so security products to determine the URL is not infected. 
+As a precautionary measure, to ensure that you didn’t click on the wrong link. Visit www.virustotal.com and copy the link above to run it against 90 or so security products to determine the URL is not infected. 
  ![Virus Total](imgs/step1_virustotal.png)
 
 
