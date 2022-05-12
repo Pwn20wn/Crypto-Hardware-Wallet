@@ -13,6 +13,7 @@ As a precautionary measure, to ensure that you didn’t click on the wrong link.
 After downloading the application, in this case I’m on a MacOS. You will be greeted with the terms of use & privacy policy. Accept to move forward. 
 ![termsofuse](imgs/step2_termsofuse.png)
 
+## Ledger Live 
 Next Select the device where you will be storing your crypto
 ![select device](imgs/step3_Select Device.png)
 
@@ -20,6 +21,7 @@ Next you will be prompted with steps for first time users or connecting a previo
 Click “Lets do this!” to move forward
 ![1st time setup](imgs/step4_firsttimesetup.png)
 
+## Getting Started
 Do you have 30 minutes to dedicate the setting up of your hardware wallet? If you’re tight on time I suggest bookmarking this and returning at a later time. 
 ![Alt text](imgs/step5_basics.png)
 
@@ -48,6 +50,7 @@ Allow the Ledger Manager access to your hardware wallet. You will be prompted to
 Looks like you’re ready and through the hard part, woohoo! 
 ![Alt text](imgs/step13_successcheck.png)
 
+## Firmware Update
 First things first, if you’re hardware wallet has been sitting around there’s a high likelihood that the vendor will have a new firmware update by the time you connect it. It’s highly recommended to keep your software & firmware up to date! 
 ![Alt text](imgs/step13b_firmwareupdatewindow.png)
 
@@ -63,7 +66,8 @@ Waiting for firmware update to be completed
 Boom! Updated
 ![Alt text](imgs/step16_updateconfirmed.png)
 
-Next steps is the fun part. The hardware wallet will have any pre-installed applications so to store your crypto you will need to download the app for your assets first. Let’s click on Bitcoin! 
+## Installing Crypto Apps & Wallet Verification
+Next steps is the fun part. The hardware wallet will not have any pre-installed applications so to store your crypto you will need to download the app for your assets first. Let’s click on Bitcoin! 
 ![Alt text](imgs/step17_installapps.png)
 
 I clicked on the default option “Native Segwit”, let the device synchronize
@@ -76,6 +80,7 @@ In this step you will be prompted to ensure that the address of your hardware wa
 
 ![Alt text](imgs/step20_QRcode.png)
 
+## Send Crypto from CoinBase to Offline Wallet
 While your QR code is up on your laptop screen you will need to follow the steps below: 
 Go to Coinbase Dashboard 
 click on Send  
@@ -88,11 +93,11 @@ Send
 ![Alt text](imgs/step21_coinbasesend.png)
 ![Alt text](imgs/step22_successfulsend.png)
 
-
+## Crypto Received
 After a few minutes, my Ledger Live is updated with the recent transaction that was sent to my hardware wallet
 ![Alt text](imgs/step23_BTCintoWallet.png)
 
-
+## Enable Password Protection on Ledger Live
 Now that the money has been transferred, you will want to add a password to log into the dashboard of the Ledger Live application on your laptop. This will ensure that in order to use the application a password is prompted, then the PIN on your hardware wallet is provided as a multi-factor to do your crypto transactions. 
 ![Alt text](imgs/step24_managersettings.png)
 
